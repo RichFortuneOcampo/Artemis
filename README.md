@@ -1,5 +1,6 @@
 # Artemis
 artemis-pentest-walkthrough
+
 Phase 1. Perform Reconnaissance
 
 The goal of this initial phase of the pen test is gathering info on Artemis, the fictional company based in France that supplies industrial gas to major customers in the chemicals, petrochemicals, refining, and steel industries. Building a profile on Artemis will include the company’s technology stack, email addresses, phone numbers, resumes, and more. 
